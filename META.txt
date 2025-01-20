@@ -1,5 +1,0 @@
-{
-  "name": "VIOLACOIN",
-  "symbol": "VIOLA",
-  "image": "https://raw.githubusercontent.com/Adnanbl05/violacoin/refs/heads/main/lg.png"
-}
